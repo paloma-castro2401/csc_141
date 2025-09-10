@@ -1,0 +1,9 @@
+# print a string variable
+
+message = 'I love gaming'
+
+print (message)
+
+message = 'my favorite game of all time is paper mario'
+
+print (message)
